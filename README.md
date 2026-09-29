@@ -38,5 +38,5 @@ Nếu có file dữ liệu theo ngày/tháng mới, nên chọn **Nối thêm v�
 - R²: mức độ giải thích biến thiên của nhu cầu, càng gần 1 càng tốt.
 
 Mô hình được chọn tự động theo MAE, sau đó dùng RMSE làm tiêu chí phụ.
-# TTND2-TN-KHO
+
 # TTND2-QLy-KHO
